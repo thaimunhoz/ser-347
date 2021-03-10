@@ -1,0 +1,33 @@
+# Principais definições de Sensoriamento Remoto
+
+ESA – Meio de coletar e analisar dados para obter informações de um
+objeto sem que o instrumento utilizado na coleta dos dados tenha
+contato direto com o objeto.
+
+NASA –Termo comumente utilizado para descrever a ciência de
+identificação, observação e medição de um objeto sem contato direto
+com ele. Este processo envolve a detecção e medição da radiação
+refletida ou emitida em diferentes comprimentos de onda por objetos ou
+materiais distantes, de modo que possam ser identificados e
+categorizados por classe/tipo, substância e distribuição espacial.
+
+American Society for Photogrammetry and Remote Sensing (1988) –
+Fotogrametria e sensoriamento remoto são a arte, ciência e tecnologia
+para obtenção de informações confiáveis sobre objetos físicos e meioambiente,
+através dos processos de registro, medição e interpretação de
+imagens e representações digitais de padrões de energia derivados de
+sistemas sensores sem contato direto.
+
+É a ciência que explora um processo de interação entre a radiação
+eletromagnética e diferentes objetos para deles extrair informações.
+
+É definido como a ciência e tecnologia pela qual as características de
+objetos de interesse podem ser identificadas sem contato direto com
+estes.
+
+É a ciência de adquirir informações sobre a superfície da Terra sem
+realmente entrar em contato direto com ela. Isso é feito detectando e
+registrando a energia refletida ou emitida e processando, analisando
+e aplicando essas informações.
+
+Fonte: Introdução ao Sensoriamento Remoto - Aula 01. SER-205. Milton Kampel.
