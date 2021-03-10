@@ -1,0 +1,18 @@
+#lista da principal bibliografia a ser utilizada na disciplina SER-347
+
+#1
+John V. Guttag. Introduction to Computation and Programming Using Python: With Application to Understanding Data. 
+2nd Edition, MIT Press. 2016. 472 p.
+
+#2
+Hans Petter Langtangen. A Primer on Scientific Programming with Python. 
+4th Edition. Springer. 2014. 872 p.
+
+#3
+Mark Lutz. Learning Python. 5th Edition, O’Reilly Media. 2013. 1648 p.
+
+#4
+Chris Garrard. Geoprocessing with Python. 1st Edition, Manning Publications. 2016. 360 p.
+
+#5
+Chris Garrard. Geoprocessing with Python. 1st Edition, Manning Publications. 2016. 360 p.
