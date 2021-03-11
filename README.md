@@ -1,5 +1,5 @@
 # SER-347 - Atividade 04
-Esté um repositório experimental
+Este é um repositório experimental
 
 Este repositório contém os códigos fontes do exercício 04 da atividade 01 da disciplina de SER-347
 
