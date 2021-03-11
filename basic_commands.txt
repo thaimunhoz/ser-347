@@ -2,6 +2,12 @@
 # Disciplina: SER-347
 # Atividade 01_Exercício 04
 
+Inicialmente foi feita a criação do repositório no GitHub, onde foram inseridos inicialmente os sequintes arquivos:
+- README
+- .gitigonre
+- LICENSE
+Após isso, iniciou-se uma sequencia de comandos para posteriores modificações no repositório:
+
 # 1-Clonando o respósitório ser-347
 	git clone
 
@@ -22,4 +28,5 @@
 	git status
 	git add //git checkout desfaz a modificação e git add inclui o arquivo na lista a ser confirmada sobre atualizações
 	git commit //confirmar e salvar todas as modificações realizadas no repositório
+	git push //atualização do repositório remoto com as modificações feitas
 	
