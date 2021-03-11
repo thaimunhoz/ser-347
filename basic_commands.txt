@@ -6,28 +6,38 @@ Inicialmente foi feita a criação do repositório no GitHub, onde foram inserid
 - README
 - .gitigonre
 - LICENSE
-Após isso, iniciou-se uma sequencia de comandos para posteriores modificações no repositório:
 
+Após isso, iniciou-se uma sequência de comandos para posteriores modificações no repositório:
 
-# 1-Clonando o respósitório ser-347
-	git clone
+# 1-Clonagem do respósitório ser-347
+	git clone https://github.com/thamunhoz/ser-347 // Faz uma cópia do repositório
 
 # 2-Listagem dos arquivos contigos no repositório
-	dir
+	dir // foi mostrado na tela os arquivos: README, .gitigonre e LICENSE
 	
-# 3- Sincronizar a pasta local com o repositório remoto
-	git pull
-	git push
-	git status
+# 3- Sincronização da pasta local com o repositório remoto
+	git pull //verifica que a pasta está atualizada com a remota, é mostrado na tela "Already up to date"
+	git push //atualiza o repositório com as modificações locais
+	git status 
 	
-# 4- Alterar o arquivo README.mb 
+# 4- Alteração do arquivo README.mb
+O arquivo README contido dentro do repositório foi alterado com informações relevantes
 	git status //irá indicar que o arquivo readme foi modificado
-	git add README.md
-	git commit -m "Primeira versão do arquivo README.mb"
+	git add README.md //inclui o arquivo alterado na lista a ser confirmada
+Ao utlizar novamento o comando git status, a mensagem muda e é mostrado na ela "modified: README.md"
+	git commit -m "Primeira versão do arquivo README.mb" // confirma e salvar
+Ao utilizar o git commit, foi preciso inserir o email para autenticação. Após isso, ele mostra
+a mensagem de que um arquivo foi modificado
+	git push //atualização do repositório
 	
 # 5- Adicionar um novo arquivo
-	git status
+	git status // indica o arquivo que foi inserido
+na tela é mostrado:
+	Untracked File: basic_commands.txt
 	git add //git checkout desfaz a modificação e git add inclui o arquivo na lista a ser confirmada sobre atualizações
+	git status
+na tela é mostrado:
+	Changes to be commited: new file: basic_commands.txt
 	git commit //confirmar e salvar todas as modificações realizadas no repositório
 	git push //atualização do repositório remoto com as modificações feitas
 	
